@@ -387,16 +387,6 @@ These skills are designed to turn broad AI capabilities into **repeatable expert
 
 ---
 
-## 📄 License
-
-Add your preferred license here, for example:
-
-```text
-MIT License
-```
-
----
-
 ## 🚧 Status
 
 Actively evolving. New skills, improvements, examples, and specialized workflows will be added over time.
